@@ -1,4 +1,4 @@
-# HAMP 101: Tutorial and Post-Processing For Users
+# HAMP 101: HAMP Tutorial and Post-Processing For Scientists
 
 This repository is for scientists using HAMP, to understand what it is and how to
 
