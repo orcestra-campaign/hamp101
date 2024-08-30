@@ -8,7 +8,7 @@ George Datseris.
 ## Install
 To (locally) reproduce this project simply clone the repository:
 ```
-git clone https://github.com/yoctoyotta1024/GoodSciProjTemplate.git
+git clone https://github.com/orcestra-campaign/hamp101.git
 ```
 and then create an environment with the necessary dependencies installed (e.g. using micromamba
 or conda as listed in the environment.yaml):

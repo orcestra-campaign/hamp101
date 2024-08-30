@@ -7,7 +7,7 @@ Clone GoodSciProjTemplate's GitHub repository:
 
 .. code-block:: console
 
-  $ git clone https://github.com/yoctoyotta1024/GoodSciProjTemplate.git
+  $ git clone https://github.com/orcestra-campaign/hamp101.git
 
 and then create an environment with the necessary dependencies installed (e.g. using micromamba,
 or conda as listed in the environment.yaml):

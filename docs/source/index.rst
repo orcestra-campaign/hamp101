@@ -50,7 +50,7 @@ Contents
    src_py/index
    src_cxx/index
 
-   GitHub Repo <https://github.com/yoctoyotta1024/GoodSciProjTemplate.git>
+   GitHub Repo <https://github.com/orcestra-campaign/hamp101.git>
    usage/contributing
    usage/contact
    references
