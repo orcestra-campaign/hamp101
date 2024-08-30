@@ -9,8 +9,8 @@ followed by the Sphinx .html files, e.g.
 
 .. code-block:: console
 
-  $ cd ./docs && mkdir build && mkdir build/doxygen
-  $ doxygen doxygen/doxygen.dox && make html
+  $ cd ./docs && mkdir build
+  $ make html
 
 which you can then view in your preferred browser e.g.
 
@@ -58,14 +58,6 @@ Further Resources
 Sphinx
 ######
 https://www.sphinx-doc.org/en/master/
-
-Breathe
-#######
-https://breathe.readthedocs.io/en/latest/
-
-Doxygen
-#######
-https://www.doxygen.nl
 
 Contributing to Our Documentation
 ---------------------------------

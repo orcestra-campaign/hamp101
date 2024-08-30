@@ -1,6 +1,7 @@
-# HAMP 101
+# HAMP 101: Tutorial and Post-Processing For Users
 
-This repository is for beginners using HAMP, to understand what it is and how to
+This repository is for scientists using HAMP, to understand what it is and how to
+
 post-process the raw IQ data.
 
 ## Install
@@ -21,7 +22,9 @@ GitHub repository.
 ## Documentation
 Some documentation has been set up for this project which you should be able to find hosted online
 here:
-### https://yoctoyotta1024.github.io/hamp101/
+
+### https://orcestra-campaign.github.io/hamp101/
+
 ... If not, please raise an issue on the GitHub repository.
 
 Alternatively, You can build and view the documentation locally. First build the .html files
