@@ -46,14 +46,14 @@ To delete the C++ parts of the repository:
    .. code-block:: yaml
 
       - name: Install Doxygen
-        run: /usr/share/miniconda/envs/goodsciproj_env/bin/doxygen --version
+        run: /usr/share/miniconda/envs/hamp101env/bin/doxygen --version
         shell: bash
       - name: Generate Doxygen Documentation
         run: |
           cd docs &&
           mkdir build &&
           mkdir build/doxygen &&
-          /usr/share/miniconda/envs/goodsciproj_env/bin/doxygen doxygen/doxygen.dox
+          /usr/share/miniconda/envs/hamp101env/bin/doxygen doxygen/doxygen.dox
         shell: bash
 
 #. In ``docs/source/conf.py`` delete ``"breathe"`` from ``extenstions`` and
