@@ -1,7 +1,7 @@
 """
 Copyright (c) 2024 MPI-M, Clara Bayley
 
------ GoodSciProjTemplate -----
+----- HAMP101 -----
 File: mock_python.py
 Project: scripts
 Created Date: Tuesday 27th February 2024

@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2024 MPI-M, Clara Bayley
  *
- * ----- GoodSciProjTemplate -----
+ * ----- HAMP101 -----
  * File: mock_cxx.cpp
  * Project: src_cxx
  * Created Date: Wednesday 28th February 2024

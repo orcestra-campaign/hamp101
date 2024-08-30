@@ -1,9 +1,9 @@
 """
 Copyright (c) 2024 MPI-M, Clara Bayley
 
------ GoodSciProjTemplate -----
+----- HAMP101 -----
 File: setup.py
-Project: goodsciprojtemplate
+Project: HAMP101
 Created Date: Tuesday 27th February 2024
 Author: Clara Bayley (CB)
 Additional Contributors:
@@ -21,7 +21,7 @@ setup for pre-commit tool
 from setuptools import setup, find_packages
 
 setup(
-    name="GoodSciProjTemplate",
+    name="HAMP101",
     version="0.0.0",
     packages=find_packages(),
     install_requires=[

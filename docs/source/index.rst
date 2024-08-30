@@ -1,8 +1,8 @@
-.. GoodSciProjTemplate documentation master file, based off sphinx-quickstart.
+.. HAMP101 documentation master file, based off sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GoodSciProjTemplate's Documentation!
+Welcome to HAMP101's Documentation!
 ===============================================
 
 .. note::

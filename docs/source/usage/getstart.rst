@@ -3,7 +3,7 @@
 Getting Started
 ===============
 
-Clone GoodSciProjTemplate's GitHub repository:
+Clone HAMP101's GitHub repository:
 
 .. code-block:: console
 
@@ -43,13 +43,13 @@ Necessary first steps:
    commit messages and don't push to your remote branch until the end.)*
 #. Make yourself the ``github.repository_owner`` who triggers GitHub's CI to publish documentation
    (see `.github/workflows/CI.yaml` and `.github/workflows/cocogitto.yaml`).
-#. Make the project name yours instead of "GoodSciProjTemplate".
+#. Make the project name yours instead of "HAMP101".
 #. Make the citation and liscence refer to you instead of me.
 #. Correct the repository name and its owner for GitHub (e.g. in the `.github/workflows/CI.yaml`).
 #. Write a new README.md (shorter is generally better) and include a link to your documentation in it.
 #. Change the GitHub links in the .rst files to the correct ones for your GitHub repository
    (*hint*: you find these files in the `docs` directory).
-#. Delete GoodSciProjTemplate's CHANGELOG.md ``rm CHANGELOG.md``.
+#. Delete HAMP101's CHANGELOG.md ``rm CHANGELOG.md``.
 #. Delete any pre-existing tags and push a 0th version tag to your remote repository:
     a. ``git tag`` to see any pre-existing tags, then ``git tag -d [pre-existing_tags]``
     b. ``git tag -a v0.0.0 -m "init repo``
