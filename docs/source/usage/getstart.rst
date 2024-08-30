@@ -3,7 +3,7 @@
 Getting Started
 ===============
 
-Clone HAMP101's GitHub repository:
+Clone hamp101's GitHub repository:
 
 .. code-block:: console
 

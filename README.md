@@ -1,6 +1,6 @@
 # HAMP 101: Tutorial and Post-Processing For Users
 
-This repository is for beginners using HAMP, to understand what it is and how to
+This repository is for scientists using HAMP, to understand what it is and how to
 post-process the raw IQ data.
 
 ## Install

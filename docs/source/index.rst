@@ -14,21 +14,8 @@ Welcome to HAMP101's Documentation!
    to the on-going code development. If you have queries related to
    this or if there is anything you wish to report please please :ref:`contact us! <contact>`.
 
-This library aims to be a template to make it easy and quick for you to incorporate best coding and
-scientific practises into your GitHub repositories. The template demonstrates:
-
-* what to include in file headers
-* how to document your Python and C++ code
-* how to make tests for your code (using pytest)
-* how to liscence your code
-* how to write a citation for your code
-* things to include in a .gitignore file (e.g. large files like jupyter notebooks)
-* how to list the requirements of your code (i.e. dependencies) in an environment YAML file
-* how to use pre-commit for code checks, linting and formatting (see https://pre-commit.com/)
-* how to use continuous integration (CI) to run pytest and publish documentation on GitHub
-  (see instructions on `continuous-integration on GitHub <https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration>`_).
-* how to write conventional commit messages
-* how to use conventional commits and CI for automatic version control on GitHub
+This repository is for scientists using HAMP, to understand what it is and how to
+post-process the raw IQ data.
 
 To (locally) reproduce this project, simply clone the repository. You will need to setup an
 environment with the dependencies installed and then run ``pre-commit install`` but other than
@@ -46,7 +33,6 @@ Contents
    usage/ourdocs
    usage/ourtests
    usage/cocogitto
-   usage/pybind11
    src_py/index
 
    GitHub Repo <https://github.com/orcestra-campaign/hamp101.git>
