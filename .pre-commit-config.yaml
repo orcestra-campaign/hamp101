@@ -35,12 +35,6 @@ repos:
     hooks:
     -   id: black-jupyter
         description: formating ipynb notebook
--   repo: https://gitlab.com/daverona/pre-commit/cpp
-    rev: 0.8.0
-    hooks:
-    -   id: cpplint
-        args: [--linelength=100, "--filter=-runtime/references,-readability/braces,-build/include,-build/c++11"]
-        types_or: [c, c++, cuda]
 -   repo: https://github.com/compilerla/conventional-pre-commit
     rev: v3.4.0
     hooks:

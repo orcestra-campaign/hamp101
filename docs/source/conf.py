@@ -56,7 +56,6 @@ extensions = [
     "sphinx_copybutton",
     "sphinx.ext.intersphinx",
     "sphinxcontrib.bibtex",
-    "breathe",
     "sphinx.ext.viewcode",
 ]
 
@@ -71,13 +70,6 @@ templates_path = ["_templates"]
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
-
-# Integrate doxygen with sphinx via breathe
-breathe_projects = {
-    "src_cxx": "../build/doxygen/xml/",
-}
-
-breathe_default_project = "proj"
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
