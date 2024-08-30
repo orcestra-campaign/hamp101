@@ -48,7 +48,6 @@ Contents
    usage/cocogitto
    usage/pybind11
    src_py/index
-   src_cxx/index
 
    GitHub Repo <https://github.com/orcestra-campaign/hamp101.git>
    usage/contributing
