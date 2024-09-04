@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [v0.0.2](https://github.com/orcestra-campaign/hamp101/compare/3640f822fddffe502a9ab8dc80cc8967ba5a57d3..v0.0.2) - 2024-09-04
+#### Bug Fixes
+- Add newline at end of file - ([65e51c1](https://github.com/orcestra-campaign/hamp101/commit/65e51c192961723885102ee37dc859c9e10c06e8)) - Lukas Kluft
+- Security vulnerability - ([8382b75](https://github.com/orcestra-campaign/hamp101/commit/8382b75dd490f6e7a997a3c9b4ffcf0918876881)) - Lukas Kluft
+#### Documentation
+- change name - ([3640f82](https://github.com/orcestra-campaign/hamp101/commit/3640f822fddffe502a9ab8dc80cc8967ba5a57d3)) - clara.bayley
+
+- - -
+
 ## [v0.0.1](https://github.com/orcestra-campaign/hamp101/compare/v0.0.0..v0.0.1) - 2024-08-30
 #### Bug Fixes
 - release date - ([3616916](https://github.com/orcestra-campaign/hamp101/commit/361691658e8082ee190ffc9d4d985e34c25b25b4)) - clara.bayley
